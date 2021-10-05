@@ -10,6 +10,7 @@ O livro <b>Storytelling com dados</b> escrito por Cole Nussbaumer Knaflic trás 
     <dd>- considerar os dados disponíveis e estruturá-los para construir a história a ser contada</dd>
   <li>Escolha uma representação visual adequada
     <dd>- As melhores representações são aquelas que tornam a leitura da informação mais fácil, que podem ser texto, tabela ou gráfico.
+    NÃO USAR: gráficos de pizza, donuts, 3D e eixo y secundário.
 </ol>
   
   <h1>Visualizações</h1>
