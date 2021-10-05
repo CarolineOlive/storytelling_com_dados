@@ -1,7 +1,7 @@
-# storytelling_com_dados
+# Storytelling_com_dados
 O livro <b>Storytelling com dados</b> escrito por Cole Nussbaumer Knaflic trás lições altamente aplicáveis e mostra como pequenas mudançam podem alterar completamente a compreenção de uma informação.
 
-<h1>Lições</h1>
+<h1> Lições </h1>
 <ol>
   <li>Entenda a importância do contexto</li>
     <dd>- conhecer seu público para atender a necessidades específicas</dd>
@@ -16,3 +16,4 @@ O livro <b>Storytelling com dados</b> escrito por Cole Nussbaumer Knaflic trás 
   <h1>Visualizações</h1>
     <p>Estou utilizando os conhecimento adquiridos no livro para melhorar algumas visualizações feitas anteriormente e avaliar a evolução com o decorrer do tempo.
   
+  <h2><q>Pense como um designer</q></h1>
